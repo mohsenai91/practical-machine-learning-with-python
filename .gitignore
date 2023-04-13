@@ -101,3 +101,4 @@ ENV/
 .mypy_cache/
 notebooks/Ch05_Building_Tuning_and_Deploying_Models/lr_model.pkl
 notebooks/Ch05_Building_Tuning_and_Deploying_Models/lr_model_2.pkl
+notebooks/Ch05_Building_Tuning_and_Deploying_Models/lr_model.pkl
